@@ -1,30 +1,30 @@
 # CIS410_Homework3
 
 ## Description
-This repository contains the code and analysis for Homework 3 in CIS410. The project involves using JupyterLab, Pandas, and data visualization libraries to analyze avocado sales data.
-
-## Table of Contents
-- [Requirements](#requirements)
-- [Getting Started](#getting-started)
-  - [Installing Dependencies](#installing-dependencies)
-  - [Running the Jupyter Notebook](#running-the-jupyter-notebook)
-- [Project Structure](#project-structure)
-- [Results](#results)
-  - [Analysis Steps](#analysis-steps)
-  - [Visualizations](#visualizations)
-- [Contributing](#contributing)
-- [License](#license)
+This repository contains code for analyzing avocado sales data using JupyterLab and Pandas. The analysis covers various steps, including data loading, exploration, and visualization.
 
 ## Requirements
 - Python 3.x
 - JupyterLab
 - Pandas
 - Matplotlib
-- Other dependencies (if any)
 
-## Getting Started
-### Installing Dependencies
-```bash
-pip install jupyterlab pandas matplotlib
+## Project Structure
+- `data/`: Dataset files.
+- `notebooks/`: Jupyter notebooks.
+- `results/`: Output files and visualizations.
 
-### Installing Dependencies
+## Analysis Steps
+1. **Read Data from CSV:**
+2. **Data Exploration**
+3. **Display Unique Values**
+4. **Display Rows of Data**
+5. **Display Selected Columns and Rows**
+6. **Access Specific Columns**
+7. **Access a Column with Dot Notation**
+8. **Create a New Column**
+9. **Group and Aggregate Data**
+10. **Create a Bar Plot**
+11. **Create a new DataFrame**
+12. **Create a Bar Plot from grouped data**
+13. **Create a Scatter Plot**
